@@ -1,5 +1,7 @@
 # vuetify-only-shopbag
 
+This is a simple shopping bag example with Nuxt, Vuetify and Vuex.
+
 ## Build Setup
 
 ```bash
