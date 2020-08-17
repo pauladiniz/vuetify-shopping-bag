@@ -2,6 +2,7 @@
   "name": "vuetify-only-shopbag",
   "version": "1.0.0",
   "private": true,
+  "node": "^12",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
