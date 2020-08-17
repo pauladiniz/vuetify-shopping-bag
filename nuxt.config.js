@@ -82,6 +82,6 @@ export default {
   build: {
   },
   env: {
-    baseURL: process.env.PORT || 8000
+    baseURL: process.env.PORT || 8080
   }
 }
